@@ -9,23 +9,6 @@ source as (
 renamed as (
 
     select
-<<<<<<< HEAD
-        subject id,
-        mri id,
-        `group` AS groupe,
-        visit,
-        mr delay,
-        mf,
-        hand,
-        age,
-        educ,
-        ses,
-        mmse,
-        cdr,
-        etiv,
-        nwbv,
-        asf
-=======
         country,
         age,
         gender,
@@ -49,9 +32,8 @@ renamed as (
         social_engagement_level,
         income_level,
         stress_levels,
-        `urban_vs_rural living` as urban_vs_rural,
+        `urban_vs_rural living` as urban_vs_rural_living,
         alzheimer_diagnosis
->>>>>>> 3676b1f162db7a1386be4437bff3962fedc05bb0
 
     from source
 
