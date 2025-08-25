@@ -11,7 +11,7 @@ renamed as (
     select
         subject id,
         mri id,
-        group,
+        `group` AS groupe,
         visit,
         mr delay,
         mf,
