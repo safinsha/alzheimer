@@ -14,4 +14,4 @@ sources:
         description: zoom medical
       - name: raw_prediction
         identifier: prediction
-        description: global vision 70 000 patient
+
