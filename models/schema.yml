@@ -13,5 +13,5 @@ sources:
         identifier: oasis
         description: zoom medical
       - name: raw_prediction
-        identifier: oasis
-        description: global vision 70 000
+        identifier: prediction
+        description: global vision 70 000 patient
