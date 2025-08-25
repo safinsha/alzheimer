@@ -14,4 +14,8 @@ sources:
         description: zoom medical
       - name: raw_prediction
         identifier: prediction
+<<<<<<< HEAD
         description: global vision 70 000
+=======
+        description: global vision 70 000 patient
+>>>>>>> 3676b1f162db7a1386be4437bff3962fedc05bb0
