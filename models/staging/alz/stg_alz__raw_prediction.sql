@@ -32,7 +32,7 @@ renamed as (
         social_engagement_level,
         income_level,
         stress_levels,
-        `urban_vs_rural living` as urban_vs_rural,
+        `urban_vs_rural living` as urban_vs_rural_living,
         alzheimer_diagnosis
 
     from source
