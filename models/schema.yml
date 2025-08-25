@@ -1,0 +1,17 @@
+#schema
+
+version: 2
+
+sources:
+  - name: alz
+    description: data project Alzheimer
+    tables:
+      - name: raw_disease
+        identifier: disease
+        description: individual vision 2000
+      - name: raw_oasis
+        identifier: oasis
+        description: zoom medical
+      - name: raw_prediction
+        identifier: oasis
+        description: global vision 70 000
