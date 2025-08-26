@@ -13,7 +13,7 @@ CASE WHEN Alzheimer_Diagnosis = 0 THEN 1 ELSE 0 END AS no_alzheimer
 
 
 FROM
-  `alzheimer-470108.dbt_sshahed.stg_alz__raw_prediction` )
+  {{ ref('stg_alz__raw_prediction') }} )
 
 SELECT *, ROUND((step_1.age_normalised + step_1.bmi_normalised + step_1.cholesterol_high + diabetes ),3) as cardio_risk
 FROM step_1 
