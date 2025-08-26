@@ -32,18 +32,8 @@ renamed as (
         social_engagement_level,
         income_level,
         stress_levels,
-<<<<<<< HEAD
-<<<<<<< HEAD
         `urban_vs_rural living` as urban_vs_rural,
         CASE WHEN Alzheimer_Diagnosis = false THEN 0 ELSE 1 END as Alzheimer_Diagnosis
-=======
-        `urban_vs_rural living` as urban_vs_rural_living,
-        alzheimer_diagnosis
->>>>>>> 8ac8e9faa2cfb16ae0a65405463f4c75107ce982
-=======
-        `urban_vs_rural living` as urban_vs_rural,
-        CASE WHEN Alzheimer_Diagnosis = false THEN 0 ELSE 1 END as Alzheimer_Diagnosis
->>>>>>> b12bd4d9abafc8e0b0a778e1e39da1770d9cddea
 
     from source
 
