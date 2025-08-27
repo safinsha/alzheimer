@@ -14,11 +14,9 @@ sources:
         description: zoom medical
       - name: raw_prediction
         identifier: prediction
-<<<<<<< HEAD
       - name: raw_depense
         identifier: depense
         description: données Ameli Pathologies dépenses remboursée
-=======
       - name: raw_ameli_patients
         identifier: ameli_patients
->>>>>>> f6e7c0e54fb2eb977e89cb1b15e791253fe57f5a
+
