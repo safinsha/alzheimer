@@ -1,4 +1,4 @@
--- KPI par grande pathologie & par année
+
 {{ config(materialized='table') }}
 
 with base as (select * from {{ ref('intermediate_ameli__compare_view') }}),
