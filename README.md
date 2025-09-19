@@ -55,7 +55,7 @@ Nous sommes une équipe de **Data Analysts du Wagon** et nous présentons ce pro
 👉 [Voir le dashboard Looker Studio](https://lookerstudio.google.com/s/liNMua3GDdo)  
 
 Exemple de visualisation (capture d’écran) :  
-![Dashboard Alzheimer](./screenshot_dashboard.png)  
+![Dashboard Alzheimer](./dashboard.png)  
 
 ---
 
