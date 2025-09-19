@@ -19,8 +19,8 @@ Nous sommes une équipe de **Data Analysts du Wagon** et nous présentons ce pro
 
 - Données synthétiques : [Alzheimer’s Prediction Dataset – Kaggle](https://www.kaggle.com/datasets/ankushpanday1/alzheimers-prediction-dataset-global)  
 - Données publiques de l’Assurance Maladie (Ameli) :  
-  - [Dépenses de santé](https://data.ameli.fr/explore/dataset/depenses/information/)  
-  - [Effectifs de patients](https://data.ameli.fr/explore/dataset/effectifs/information/)  
+- [Dépenses de santé](https://data.ameli.fr/explore/dataset/depenses/information/)  
+- [Effectifs de patients](https://data.ameli.fr/explore/dataset/effectifs/information/)  
 
 ---
 
@@ -33,8 +33,8 @@ Nous sommes une équipe de **Data Analysts du Wagon** et nous présentons ce pro
 2. **Analyse exploratoire & Machine Learning**  
    - Mise en évidence des **facteurs modifiables** liés au risque (ex : activité physique, pollution, éducation).  
    - Utilisation du **Machine Learning** pour calculer un **score de risque individuel** (compris entre 0 et 1).  
-     - Chaque facteur de risque (diabète, tabagisme, etc.) est pondéré par son **coefficient d’importance** dans l’apparition de la maladie (estimé par le modèle).  
-     - Le score global correspond à la **somme pondérée des facteurs de risque**.  
+   - Chaque facteur de risque (diabète, tabagisme, etc.) est pondéré par son **coefficient d’importance** dans l’apparition de la maladie (estimé par le modèle).  
+   - Le score global correspond à la **somme pondérée des facteurs de risque**.  
    - Ce score a permis d’identifier des **profils patients à haut risque** et d’illustrer l’impact potentiel de la prévention.  
 
 3. **Visualisation & communication**  
@@ -56,7 +56,6 @@ Nous sommes une équipe de **Data Analysts du Wagon** et nous présentons ce pro
 
 Exemple de visualisation (capture d’écran) :  
 ![Dashboard Alzheimer](./screenshot_dashboard.png)  
-*(remplacer `screenshot_dashboard.png` par la vraie capture d’écran de ton dashboard)*  
 
 ---
 
